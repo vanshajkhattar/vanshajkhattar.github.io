@@ -17,5 +17,5 @@ News
 1. November 2022: Two papers accepted at AAAI 2023.
 1. October 2022: Gave a talk by invitation at the undergraduate research seminar on trustworthy reinforcement learning.
 1. April 2022: Presented our winning solution in the CityLearn challenge 2021 at the PEC Conference at Virginia Tech.
-1. February 2022: Journal paper accepted at Journal of connected and autonomous vehicles.
+1. February 2022: Journal paper accepted at the SAE International Journal of Connected and Autonomous Vehicles.
 1. November 2021: Presented our theoretical results for the winning solution in the CityLearn challenge 2021 at Southeast Control Coference.
