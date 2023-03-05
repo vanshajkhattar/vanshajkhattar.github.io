@@ -9,9 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.tech in Electrical and Electronics Engineering, Delhi Technological University, 2018
-* M.S. in Electrical Engineering, Virginia Tech, 2021
-* Ph.D in Electrical Engineering, Virginia Tech, 2021-present
+Link to my [CV](https://docs.google.com/document/d/1frCQqy8xmtGkbE7-xOg_vpuN7Ozdxmw556NUSWejGsA/edit?usp=sharing)
 
