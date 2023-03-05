@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="vanshajkhattar.github.io/files/Khattar_CV_Amazon2.pdf" target="_blank">PDF.</a>
+<a href="files/Khattar_CV_Amazon2.pdf" target="_blank">PDF.</a>
