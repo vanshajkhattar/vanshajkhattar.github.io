@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Link to my [CV](https://docs.google.com/document/d/1frCQqy8xmtGkbE7-xOg_vpuN7Ozdxmw556NUSWejGsA/edit?usp=sharing)
+Link to my [CV](<embed src="https://vanshajkhattar.github.io/Khattar_CV_Amazon2.pdf.pdf" width="100%" height="850px"/>)
 
 <embed src="https://vanshajkhattar.github.io/Khattar_CV_Amazon2.pdf.pdf" width="100%" height="850px"/>
