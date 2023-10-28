@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Electrical and Computer Engineering at Virginia Tech, where I am advised by [Dr. Ming Jin](http://www.jinming.tech). My research interests lie at the intersection of efficient and robust machine learning, reinforcement learning, and optimization. I am passionate about use-inspired research and solving real-world problems. More specifically, I am interested in how can we achieve trustworthy reinforcement learning algorithms that are safe, robust, explainable, and can continually adapt to non-stationarity in the real world.
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at Virginia Tech, where I am advised by [Dr. Ming Jin](http://www.jinming.tech). My research interests lie at the intersection of machine learning, reinforcement learning, and optimization. I am passionate about use-inspired research and solving real-world problems. More specifically, I am interested in how can we achieve trustworthy reinforcement learning algorithms that are safe, robust, explainable, and can continually adapt to non-stationarity in the real world.
 
 Before coming to Virginia Tech in 2019, I received my Bachelor's degree in Electrical and Electronics Engineering from Delhi Technological University, India. I received my Master's in Electrical Engineering in May 2021, where I was advised by  [Dr. Azim Eskandarian](https://asim.me.vt.edu/).
 
