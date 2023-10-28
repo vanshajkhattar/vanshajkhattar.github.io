@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 (Last updated in October 2023)
-<embed src="Vanshaj_CV.pdf" width="800px" height="700px" />
+<embed src="https://github.com/vanshajkhattar/vanshajkhattar.github.io/blob/master/Vanshaj_CV.pdf" width="800px" height="700px" />
