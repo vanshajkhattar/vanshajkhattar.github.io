@@ -12,6 +12,8 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 
 Before coming to Virginia Tech in 2019, I received my Bachelor's degree in Electrical and Electronics Engineering from Delhi Technological University, India. I received my Master's in Electrical Engineering in May 2021, where I was advised by  [Dr. Azim Eskandarian](https://asim.me.vt.edu/).
 
+Contact: vanshajk@vt.edu
+
 News
 ======
 * **August 2023**: Our short note on HVAC control for smart buildings using evolutionary RL in collaboration with Mostafa Meimand to appear in BuildSys 2023.
