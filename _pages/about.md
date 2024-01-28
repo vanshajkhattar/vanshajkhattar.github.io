@@ -16,6 +16,8 @@ Contact: vanshajk@vt.edu
 
 News
 ======
+* **January 2024**: One paper offline RL using optimization solution functions accepted in American Control Conference 2024 [Paper link](https://www.dropbox.com/scl/fi/z7srpf9w75uvueqfkmkmh/ACC24_1381_MS.pdf?rlkey=eymnx07cn8gh7uojud30i0v7h&dl=0).
+* **December 2023:** Attending NeurIPS 2023 in New Orleans!
 * **August 2023**: Our short note on HVAC control for smart buildings using evolutionary RL in collaboration with Mostafa Meimand to appear in BuildSys 2023.
 * **January 2023**: Our paper on [Meta-safe reinforcement learning](https://openreview.net/pdf?id=mbxz9Cjehr) is accepted in ICLR 2023 conference as a spotlight.
 * **November 2022**: Our two papers [winning the CityLearn challenge 2021](https://arxiv.org/pdf/2212.01939.pdf), and [learning theoretic properties of solution functions of optimization](https://arxiv.org/pdf/2212.01314.pdf) are accepted at AAAI 2023.
