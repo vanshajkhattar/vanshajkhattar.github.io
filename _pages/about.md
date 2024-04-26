@@ -16,7 +16,7 @@ Contact: vanshajk@vt.edu
 
 News
 ======
-* **March 2024**: Our workshop paper on the novel prompting strategy "CausalPrompt" for enhancing LLMs in non-language tasks has been accepted at the ICLR 2024 Workshop: Tackling Climate Change with Machine Learning. [Paper link](http://www.jinming.tech/papers/CausalPrompt2024.pdf)). Thanks to my collaborators Wayne Lin and Steven Huang.
+* **March 2024**: Our workshop paper on the novel prompting strategy "CausalPrompt" for enhancing LLMs in non-language tasks has been accepted at the ICLR 2024 Workshop: Tackling Climate Change with Machine Learning. [Paper link](http://www.jinming.tech/papers/CausalPrompt2024.pdf). Thanks to my collaborators Wayne Lin and Steven Huang.
 * **January 2024**: One paper on offline reinforcement learning using optimization solution functions accepted in American Control Conference 2024 [Paper link](https://www.dropbox.com/scl/fi/z7srpf9w75uvueqfkmkmh/ACC24_1381_MS.pdf?rlkey=eymnx07cn8gh7uojud30i0v7h&dl=0).
 * **December 2023:** Attending NeurIPS 2023 in New Orleans!
 * **August 2023**: Our short note on HVAC control for smart buildings using evolutionary RL in collaboration with Mostafa Meimand to appear in BuildSys 2023.
