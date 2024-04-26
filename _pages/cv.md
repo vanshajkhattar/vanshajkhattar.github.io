@@ -12,4 +12,5 @@ redirect_from:
 <!-- This is a comment -->
 <!---<embed src="https://github.com/vanshajkhattar/vanshajkhattar.github.io/blob/master/Vanshaj_CV.pdf" width="800px" height="700px" /> --->
 <embed src="https://raw.githubusercontent.com/vanshajkhattar/vanshajkhattar.github.io/master/Khattar_Resume_Nov20.pdf" width="800px" height="700px" />
+<a href="vanshajkhattar.github.io/folder/files/ICL_Cybersecurity_SmartGridComm_24 (1).pdf" target="_blank">PDF.</a>
 
