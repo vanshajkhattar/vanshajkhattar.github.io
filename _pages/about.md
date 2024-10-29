@@ -18,7 +18,7 @@ News
 ======
 * **September 2024**: Gave a tutorial on Safe RL for Smart Grid Operations and Control at SmartGridComm 2024 conference. ([Link](https://sgc2024.ieee-smartgridcomm.org/sites/sgc2024.ieee-smartgridcomm.org/files/SmartGridComm2024_Tutorial_Safe%20Reinforcement%20Learning%20for%20Smart%20Grid%20Control%20and%20Operations.pdf))
 * **July 2024**: Our paper "Zero-Day Attack Detection in Digital Substations using In-Context Learning" has been accepted to SmartGridComm 2024!
-* * **June 2024**: Started my summer research internship at National Renewable Energy Lab. Working on a graph-reinforcement learning based solution for critical load restoration under uncertain topologies.
+* **June 2024**: Started my summer research internship at National Renewable Energy Lab. Working on a graph-reinforcement learning based solution for critical load restoration under uncertain topologies.
 * **May 2024**: Our paper "Algorithm of thoughts: Enhancing exploration of ideas in large language models" has been accepted to ICML 2024! ([Paper link](https://arxiv.org/pdf/2308.10379))
 * **March 2024**: Co-organizing the Trustworthy Interactive Decision-Making with Foundation Models Workshop at the IJCAI 2024 conference. [TIDMwFM workshop](https://sites.google.com/view/ijcai24-tfm)
 * **March 2024**: Our workshop paper on the novel prompting strategy "CausalPrompt" for enhancing LLMs in non-language tasks has been accepted at the ICLR 2024 Workshop: Tackling Climate Change with Machine Learning. [Paper link](http://www.jinming.tech/papers/CausalPrompt2024.pdf). Thanks to my collaborators Wayne Lin and Steven Huang.
