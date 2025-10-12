@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Virginia Tech, where I am advised by [Ming Jin](http://www.jinming.tech). I am interested in how we can develop \textbf{intelligent} decision-making agents that are also \textbf{safe}, \textbf{interpretable}, and can continually adapt to changing conditions in the real world. To this end, I have worked on problems in safe reinforcement learning, optimization, and control, and, more recently, on developing trustworthy large language models for reasoning.
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Virginia Tech, where I am advised by [Ming Jin](http://www.jinming.tech). I am interested in how we can develop \textbf{intelligent} decision-making agents that are also **safe**, **interpretable**, and can continually adapt to changing conditions in the real world. To this end, I have worked on problems in safe reinforcement learning, optimization, and control, and, more recently, on developing trustworthy large language models for reasoning.
 
 Before coming to Virginia Tech in 2019, I received my Bachelor's degree in Electrical and Electronics Engineering from Delhi Technological University, India. I received my Master's in Electrical Engineering in May 2021, where I was advised by  [Azim Eskandarian](https://asim.me.vt.edu/).
 
@@ -16,7 +16,7 @@ Before coming to Virginia Tech in 2019, I received my Bachelor's degree in Elect
 
 News
 ======
-* **October 2025**: Submitted a conference paper to AISTATS 2026 from my summer internship at MERL. Thank you to my hosts Ye Wang, Jing Liu and Toshi.
+* **October 2025**: Submitted a conference paper to AISTATS 2026 from my summer internship at MERL. Thank you to my hosts Ye Wang, Jing Liu, and Toshi.
 * **May 2025**: Starting as a Research Scientist Intern at Mitsubishi Electric Research Labs (MERL). I will be working on trustworthy test-time training techniques for large language models.
 * **January 2025**: Our [paper](https://www.dropbox.com/scl/fi/qjp91re4zeqvhzvrg1m8l/PES_GM_CLR-4.pdf?rlkey=xo2rhculpslxkr6b5713068ty&st=pxeuxe4v&dl=0) on Critical Load Restoration using Graph Reinforcement Learning, from my summer internship at the National Renewable Energy Lab, got accepted at the PES-General Meeting 2025. Thank you to host Yiyun Yao and group manager Fei Ding for their guidance.
 * **September 2024**: Gave a tutorial on Safe RL for Smart Grid Operations and Control at SmartGridComm 2024 conference. ([Link](https://sgc2024.ieee-smartgridcomm.org/sites/sgc2024.ieee-smartgridcomm.org/files/SmartGridComm2024_Tutorial_Safe%20Reinforcement%20Learning%20for%20Smart%20Grid%20Control%20and%20Operations.pdf))
