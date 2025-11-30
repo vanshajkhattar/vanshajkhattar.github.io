@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Virginia Tech, where I am advised by [Dr. Ming Jin](http://www.jinming.tech). I am interested in how we can develop \textbf{intelligent} decision-making agents that are also **safe**, **interpretable**, and can continually adapt to changing conditions. I have research experience in reinforcement learning, optimization, and, more recently, in developing trustworthy large language models for reasoning.
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Virginia Tech, where I am advised by [Dr. Ming Jin](http://www.jinming.tech). I am interested in how we can develop AI agents that are **safe**, **interpretable**, and can continually adapt to changing conditions. More recently, I have been interested in how we can improve the reasoning abilities of LLMs without compromising their safety. I have research experience in reinforcement learning, optimization, and, more recently, in developing trustworthy large language models for reasoning.
 
 Before coming to Virginia Tech in 2019, I received my Bachelor's degree in Electrical and Electronics Engineering from Delhi Technological University, India. I received my Master's in Electrical Engineering in May 2021, where I was advised by  [Azim Eskandarian](https://asim.me.vt.edu/).
 
